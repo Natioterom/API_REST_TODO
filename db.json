@@ -29,6 +29,11 @@
     "id": 5,
     "label": "Fix an ability to count completed tasks",
     "checked": false
+  },
+      {
+    "id": ,
+    "label": "Fix an ability to cp completed tasks",
+    "checked": false
   }
 ]
 }
