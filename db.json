@@ -33,7 +33,7 @@
   {
     "id": 6,
     "label": "Fix an ability to cp completed tasks",
-    "checked": false
+    "checked": true
   }
 ]
 }
